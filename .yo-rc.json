@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jhipster.monolithicblog"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "monolith",
+    "baseName": "MonolithicBlog",
+    "packageName": "com.jhipster.monolithicblog",
+    "packageFolder": "com/jhipster/monolithicblog",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjE2YWIxNTdkOWZjMTVmMjUxNTA1ZjRkNTUyODQxODQ1Mzk1OGJiODBiNjg4MjAzZjUwNzYwZWY4ZjQ2OTc0NzgxZTMyMjU3OGNiNmM5Yjg4Y2UxOGQ3NDY2MTkwOGJlOTdjMjZlMDE3Y2Y0NDZhY2IxZTAxOTZjM2EyYmEyM2M=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
